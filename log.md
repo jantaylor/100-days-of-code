@@ -8,3 +8,10 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/janttaylor/full/LRQVKm/)
 
+### Day 1: January 3, 2017
+
+**Today's Progress**: Added a better description and more projects to my portfolio
+
+**Thoughts:** I first did my portfolio fast, but now I can take my time and improve wording and update it with more projects. I added 3 more projects from FreeCodeCamp and improved some HTML.
+
+**Link to work:** [Personal Portfolio](http://codepen.io/janttaylor/full/LNoRpK/)
