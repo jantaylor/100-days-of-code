@@ -8,7 +8,7 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/janttaylor/full/LRQVKm/)
 
-### Day 1: January 3, 2017
+### Day 2: January 4, 2017
 
 **Today's Progress**: Added a better description and more projects to my portfolio
 
