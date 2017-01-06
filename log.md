@@ -15,3 +15,11 @@
 **Thoughts:** I first did my portfolio fast, but now I can take my time and improve wording and update it with more projects. I added 3 more projects from FreeCodeCamp and improved some HTML.
 
 **Link to work:** [Personal Portfolio](http://codepen.io/janttaylor/full/LNoRpK/)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Tried rebuilding the ajax and using getjson again.
+
+**Thoughts:** Was unable to get it to work. I tried making my code as similar to known working codepen but still couldn't get it to work. Might just have to move on.
+
+**Link to work:** [Personal Portfolio](http://codepen.io/janttaylor/full/LNoRpK/)
