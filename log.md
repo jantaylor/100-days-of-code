@@ -31,3 +31,11 @@
 **Thoughts:** Used PUG again, had a good experience starting the html structure. There's more to do, but I'll have something to do for a couple of days.
 
 **Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Finished building the Wikipedia Viewer FCC Project
+
+**Thoughts:** Thanks to @JBoykinMusic I was able to figure out why I was not able to complete a GET request. I turns out I didn't have my form set up correctly and fixing that and moving to a submit button made all the difference.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/janttaylor/full/LRQVKm/)
