@@ -23,3 +23,11 @@
 **Thoughts:** Was unable to get it to work. I tried making my code as similar to known working codepen but still couldn't get it to work. Might just have to move on.
 
 **Link to work:** [Personal Portfolio](http://codepen.io/janttaylor/full/LNoRpK/)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Started building html structure of the Twitch JSON API project
+
+**Thoughts:** Used PUG again, had a good experience starting the html structure. There's more to do, but I'll have something to do for a couple of days.
+
+**Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
