@@ -39,3 +39,11 @@
 **Thoughts:** Thanks to @JBoykinMusic I was able to figure out why I was not able to complete a GET request. I turns out I didn't have my form set up correctly and fixing that and moving to a submit button made all the difference.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/janttaylor/full/LRQVKm/)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Added javascript for http request and read about twitch API
+
+**Thoughts:** I started working on the javascript for the twitch json API FCC project. I have the html fleshed out, now I just need to keep working on the javascript. Which is good because I would say it's my weakness right now.
+
+**Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
