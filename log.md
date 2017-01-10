@@ -47,3 +47,11 @@
 **Thoughts:** I started working on the javascript for the twitch json API FCC project. I have the html fleshed out, now I just need to keep working on the javascript. Which is good because I would say it's my weakness right now.
 
 **Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: Added correct jquery getJSON for twitch API
+
+**Thoughts:** I guess I was misreading the instructions and started to implement how to get the json object without jquery. Which isn't as easy in my opinion. ajax and getJSON are great!
+
+**Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
