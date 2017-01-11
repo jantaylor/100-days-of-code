@@ -55,3 +55,11 @@
 **Thoughts:** I guess I was misreading the instructions and started to implement how to get the json object without jquery. Which isn't as easy in my opinion. ajax and getJSON are great!
 
 **Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Updated other functions to work and correctly display links and pictures
+
+**Thoughts:** I had forgotten to take out a bad piece of code. It prevented the getJSON to finish before moving onto the online check, but removing that and they all worked. I also read up on the twitch API more.
+
+**Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
