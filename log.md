@@ -63,3 +63,11 @@
 **Thoughts:** I had forgotten to take out a bad piece of code. It prevented the getJSON to finish before moving onto the online check, but removing that and they all worked. I also read up on the twitch API more.
 
 **Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Finished Twitch.tv JSON API FCC Project
+
+**Thoughts:** Finished coding the twitch.tv json API FCC project. I'm baffled at how much easier that project was than the wikipedia project. I spent hours on that, and only a couple of hours over days on the twitch project. Now I'll be working on advanced projects for my challenge.
+
+**Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
