@@ -71,3 +71,11 @@
 **Thoughts:** Finished coding the twitch.tv json API FCC project. I'm baffled at how much easier that project was than the wikipedia project. I spent hours on that, and only a couple of hours over days on the twitch project. Now I'll be working on advanced projects for my challenge.
 
 **Link to work:** [Twitch JSON API](http://codepen.io/janttaylor/full/PWqjmj)
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Started designing the Pomodoro Clock
+
+**Thoughts:** Worked in between breaks and lunch to read about the pomodoro clock and started on that. It will be quite the challenge so far without taking the advanced algorithm scripting courses.
+
+**Link to work:** [pomodoro-clock](http://codepen.io/janttaylor/pen/KazjYX)
