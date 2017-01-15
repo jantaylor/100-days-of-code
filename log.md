@@ -79,3 +79,11 @@
 **Thoughts:** Worked in between breaks and lunch to read about the pomodoro clock and started on that. It will be quite the challenge so far without taking the advanced algorithm scripting courses.
 
 **Link to work:** [pomodoro-clock](http://codepen.io/janttaylor/pen/KazjYX)
+
+### Day 11: January 14, 2017
+
+**Today's Progress**: Started learning bootstrap
+
+**Thoughts:** Started learning bootstrap by rebuilding my company's website. I thought it would be easy to remake and I could do some really cool effects on it. I know how to do everythign in materialize, but not in bootstrap.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
