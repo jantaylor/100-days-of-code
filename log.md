@@ -87,3 +87,11 @@
 **Thoughts:** Started learning bootstrap by rebuilding my company's website. I thought it would be easy to remake and I could do some really cool effects on it. I know how to do everythign in materialize, but not in bootstrap.
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 12: January 15, 2017
+
+**Today's Progress**: Fixed header padding & links, created next two sections
+
+**Thoughts:** Bootstrap is a different type of framework. I find myself using the classes from materialize, but they don't work. I have to google bootstraps classes to get the results I want. Not necessarily a bad thing, I'm learning and it is the most used css framework for a reason.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
