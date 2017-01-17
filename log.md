@@ -95,3 +95,11 @@
 **Thoughts:** Bootstrap is a different type of framework. I find myself using the classes from materialize, but they don't work. I have to google bootstraps classes to get the results I want. Not necessarily a bad thing, I'm learning and it is the most used css framework for a reason.
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 13: January 16, 2017
+
+**Today's Progress**: Added additional sections, padding, and footer
+
+**Thoughts:** The original site has the containers squished. I need to learn how to do that and then figure out why my carousel images are not full width. CSS might be able to fix that.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
