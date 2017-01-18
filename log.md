@@ -103,3 +103,11 @@
 **Thoughts:** The original site has the containers squished. I need to learn how to do that and then figure out why my carousel images are not full width. CSS might be able to fix that.
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 14: January 17, 2017
+
+**Today's Progress**: Added alternating gray bgs and different types of CSS for the sliders.
+
+**Thoughts:** I still can't figure out why the container-fluid class isn't going full width like the documentation says it should. I googled and found some CSS code that should fix it with margins, but that did not help "stretch" it.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
