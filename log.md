@@ -111,3 +111,11 @@
 **Thoughts:** I still can't figure out why the container-fluid class isn't going full width like the documentation says it should. I googled and found some CSS code that should fix it with margins, but that did not help "stretch" it.
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 15: January 18, 2017
+
+**Today's Progress**: Changed sliders to CSS backgrounds and updated margins
+
+**Thoughts:** I had to cheat a bit. I didn't quite know how the original site had their images, but I learned that you can set images as backgrounds in CSS and do all sorts of manipulation on them. I then saw on the same CSS from chrome that margins are pushed in which is what is causing the text to be smashed in and easier to read so I implemented that. Getting closer...
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
