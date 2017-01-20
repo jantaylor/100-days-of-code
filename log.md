@@ -119,3 +119,11 @@
 **Thoughts:** I had to cheat a bit. I didn't quite know how the original site had their images, but I learned that you can set images as backgrounds in CSS and do all sorts of manipulation on them. I then saw on the same CSS from chrome that margins are pushed in which is what is causing the text to be smashed in and easier to read so I implemented that. Getting closer...
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 16: January 19, 2017
+
+**Today's Progress**: Fixed backgrounds to span properly. Attemp at scroll spy.
+
+**Thoughts:** Like my twitter post, I'm starting to really dislike bootstrap. I don't understand why getting a working nav bar is impossible and scroll spy isn't easily configured. With materialize, I'd have it done in less than 5 minutes. Dropbox also dropped their public folder that I was using as an image host so I found another suitable host and updated the links. I forgot to push the updates to github and then pull them on the webserver so I was without images on my profile for a day or two.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
