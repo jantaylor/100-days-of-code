@@ -127,3 +127,11 @@
 **Thoughts:** Like my twitter post, I'm starting to really dislike bootstrap. I don't understand why getting a working nav bar is impossible and scroll spy isn't easily configured. With materialize, I'd have it done in less than 5 minutes. Dropbox also dropped their public folder that I was using as an image host so I found another suitable host and updated the links. I forgot to push the updates to github and then pull them on the webserver so I was without images on my profile for a day or two.
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 18: January 21, 2017
+
+**Today's Progress**: CSS Updates and FCC Algorithims
+
+**Thoughts:** I have a new project I'm going to start a new project tomorrow, but for now I did some CSS changes and worked on some FCC algorithims.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
