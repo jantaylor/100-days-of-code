@@ -128,6 +128,14 @@
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
 
+### Day 17: January 20, 2017
+
+**Today's Progress**: Fixed header and got links on the right
+
+**Thoughts:** I had a friend help me, but we were able to utilize pull-right to pull the links and button of the header to the right. Couldn't get scroll spy to work.
+
+**Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
 ### Day 18: January 21, 2017
 
 **Today's Progress**: CSS Updates and FCC Algorithims
@@ -135,3 +143,11 @@
 **Thoughts:** I have a new project I'm going to start a new project tomorrow, but for now I did some CSS changes and worked on some FCC algorithims.
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
+
+### Day 20: January 21, 2017
+
+**Today's Progress**: Took an HTML5 up theme and started playing with it
+
+**Thoughts:** I had someone who wanted a website and I thought I'd design it for them. They have a quick deadline, so I thought I'd take an HTML5 up template and learn from it. 
+
+**Link to work:** [o-town-throwdown](https://github.com/jantaylor/o-town-throwdown)
