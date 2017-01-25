@@ -128,7 +128,7 @@
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
 
-### Day 17: January 20, 2017
+### Day 17: January 21, 2017
 
 **Today's Progress**: Fixed header and got links on the right
 
@@ -136,7 +136,7 @@
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
 
-### Day 18: January 21, 2017
+### Day 18: January 22, 2017
 
 **Today's Progress**: CSS Updates and FCC Algorithims
 
@@ -144,10 +144,18 @@
 
 **Link to work:** [virtualrain-site](http://codepen.io/janttaylor/pen/PWGoPV)
 
-### Day 20: January 21, 2017
+### Day 20: January 23, 2017
 
 **Today's Progress**: Took an HTML5 up theme and started playing with it
 
 **Thoughts:** I had someone who wanted a website and I thought I'd design it for them. They have a quick deadline, so I thought I'd take an HTML5 up template and learn from it. 
 
 **Link to work:** [o-town-throwdown](https://github.com/jantaylor/o-town-throwdown)
+
+### Day 21: January 24, 2017
+
+**Today's Progress**: Refreshed my python proramming and started a project
+
+**Thoughts:** My pro bono client is looking over the website and providing feedback today so I couldn't work on it. Mauza may want to do a python project so I thought I'd brush up on my python while I waited today. Went through a udemy starter class and started building out the final project.
+
+**Link to work:** [beg-python-final-proj](https://github.com/jantaylor/beg-python-final-proj)
